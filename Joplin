@@ -1,0 +1,23 @@
+sudo snap install joplin-james-carroll
+
+//Dropbox Sync
+1.dropbox daemon on ur PC/OS here linux Ubuntu 20.04 LTS
+terminal command
+
+cd ~ && wget -O - "https://www.dropbox.com/download?plat=lnx.x86_64" | tar xzf -
+
+dropbox for Ubuntu 20.04 LTS its released and dwld frm webste
+install and we have done!!!
+dropbox version
+dropbox autostart y //mean yes else n for no.
+ 
+//to remove dropbox as it takes too much of space...
+rm -rf ~/.dropbox-dist
+ rm -rf /var/lib/dropbox
+ rm -rf ~/.dropbox*
+ sudo apt-get remove nautilus-dropbox
+ sudo apt-get remove dropbox
+
+
+//to remove synced files
+rm -rv ~/Dropbox
