@@ -1,6 +1,6 @@
 #include<bits/stdc++.h>
 using namespace std;
-
+//more change git me check krna hua ki nhi change???
 int getminvtx(int * weight,bool* visited,int v)
 {
 
