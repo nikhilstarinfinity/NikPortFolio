@@ -64,7 +64,7 @@ cout<<i<<" "<<parent[i]<<" "<<weight[i]<<endl;
 
 
 }
-
+//commited in git
 int main()
 {
 
