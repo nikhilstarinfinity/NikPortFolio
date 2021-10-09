@@ -1,7 +1,7 @@
 #include<bits/stdc++.h>
 using namespace std;
 //more change git me check krna hua ki nhi change???
-//2n ss
+//2n ss are ay
 int getminvtx(int * weight,bool* visited,int v)
 {
 
